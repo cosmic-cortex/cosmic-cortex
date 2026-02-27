@@ -9,10 +9,11 @@ Just an Eastern European punk who likes to build. I make mathematics accessible 
 
 ## Featured Projects
 
-- :brain: [modAL](https://github.com/modAL-python/modAL) - A modular active learning framework for Python
+- :notebook_with_decorative_cover: [NotebookPress](https://notebookpress.xyz) - Write in Jupyter Notebooks. Publish anywhere. (SaaS version)
+- :notebook: [nb2wb](https://github.com/the-palindrome/nb2wb) - Write in Jupyter Notebooks. Publish anywhere.
 - :gear: [mlfz](https://github.com/cosmic-cortex/mlfz) - An educational machine learning library, built from scratch
 - :book: [mathematics-of-machine-learning-book](https://github.com/cosmic-cortex/mathematics-of-machine-learning-book) - Code companion for the Mathematics of Machine Learning book
-- :notebook: [nb2wb](https://github.com/the-palindrome/nb2wb) - Write in Jupyter Notebooks. Publish anywhere.
+- :brain: [modAL](https://github.com/modAL-python/modAL) - A modular active learning framework for Python
 
 ## Writing
 
